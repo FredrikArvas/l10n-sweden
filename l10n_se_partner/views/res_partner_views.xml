@@ -12,7 +12,7 @@
       <xpath expr="//div[@name='partner_address_country']/preceding-sibling::field[@name='zip']" position="replace"/>
 
       <xpath expr="//div[@name='partner_address_country']" position="before">
-        <field name="zip" placeholder="Postnummer" class="o_address_zip"
+        <field name="zip" widget="se_zip" placeholder="Postnummer" class="o_address_zip"
             readonly="type == 'contact' and parent_id"/>
         <field name="city" placeholder="Stad" class="o_address_city"
             readonly="type == 'contact' and parent_id"/>
