@@ -1,4 +1,4 @@
-﻿{
+{
     'name': 'Sweden â€” AdressfÃ¤ltsordning',
     'version': '19.0.2.0.0',
     'category': 'Localization',
