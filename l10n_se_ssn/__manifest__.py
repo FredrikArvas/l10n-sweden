@@ -5,6 +5,7 @@
     "summary":     "LÃ¤gger till personnummer (SSN) pÃ¥ res.partner med Luhn-validering.",
     "author":      "Fredrik Arvas / Arvas International AB",
     "license":     "LGPL-3",
+    "url": "https://github.com/FredrikArvas/l10n-sweden",
     "depends":     ["contacts"],
     "data": [
         "views/res_partner_views.xml",
