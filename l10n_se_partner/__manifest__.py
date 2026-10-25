@@ -4,6 +4,7 @@
     'category': 'Localization',
     'summary': 'Ordnar adressfÃ¤lt postnummer/stad/lÃ¤n och visar SE-postnummer som NNN NN.',
     'author': 'Fredrik Arvas / Arvas International AB',
+    'website': 'https://github.com/FredrikArvas/l10n-sweden/tree/19.0/l10n_se_partner',
     'license': 'LGPL-3',
     'depends': ['contacts'],
     'data': [
